@@ -1,16 +1,16 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>TEMPLATEBASEPACKAGE</groupId>
-    <artifactId>TEMPLATE</artifactId>
+    <groupId>me.jade.plugins</groupId>
+    <artifactId>FirstPlugin</artifactId>
     <version>0.1</version>
-    <name>TEMPLATE</name>
+    <name>FirstPlugin</name>
     <url>https://github.com/USERNAME/TEMPLATE</url>
     <issueManagement>
         <system>GitHub</system>
         <url>https://github.com/USERNAME/TEMPLATE/issues</url>
     </issueManagement>
     <build>
-        <finalName>TEMPLATE</finalName>
+        <finalName>FirstPlugin</finalName>
         <sourceDirectory>${basedir}/src/main/java</sourceDirectory>
         <resources>
             <resource>
