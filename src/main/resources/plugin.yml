@@ -1,5 +1,5 @@
 name: FirstPlugin
-main: me.jade.plugins.FirstPlugin
+main: me.jade.plugins.MyFirstPlugin
 version: ${project.version}
 author: Jade
 description: A first plugin!
