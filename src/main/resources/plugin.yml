@@ -1,5 +1,5 @@
-name: TEMPLATE
-main: TEMPLATE
+name: FirstPlugin
+main: me.jade.plugins.FirstPlugin
 version: ${project.version}
-author: AUTHOR
-description: TEMPLATE <DESCRIPTION>
+author: Jade
+description: A first plugin!
