@@ -1,7 +1,1 @@
-== TEMPLATE
-
-TEMPLATE <DESCRIPTION>
-
-=== Compiling
-
-Maven 3 is required to compile TEMPLATE
+![Epic](http://i.imgur.com/Xrf0sgI.png)
