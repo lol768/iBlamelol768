@@ -3,3 +3,6 @@ main: me.jade.plugins.MyFirstPlugin
 version: ${project.version}
 author: Jade
 description: A first plugin!
+commands:
+  jade:
+    description: '
